@@ -9,8 +9,6 @@
  
  <td style="width:60px" align="center"><a href="amy.asp">
    <img src="images/Profile Pics/Amy-Profile.jpg" alt="Amy" width="57" height="100" border="0" /></a></td>
- <td style="width:60px" align="center"><a href="lane.asp">
-  <img src="images/Profile Pics/Lane-Profile.jpg" alt="Lane" width="57" height="100" border="0" /></a></td>
  <td style="width:60px" align="center"><a href="lydia.asp">
   <img src="images/Profile Pics/Lydia-Profile.jpg" alt="Lydia" width="57" height="100" border="0" /></a></td>
  <td style="width:60px" align="center"><a href="paco.asp">
@@ -21,13 +19,14 @@
    <img src="images/Profile Pics/Steve-Profile.jpg" alt="Steve" width="57" height="100" border="0" /></a></td>
  <td style="width:60px" align="center"><a href="suzanne.asp">
    <img src="images/Profile Pics/Suzanne-Profile.jpg" alt="Suzanne" width="57" height="100" border="0" /></a></td>
+<td style="width:60px" align="center"><a href="Sandra.asp">
+   <img src="images/Profile Pics/Sandra.jpg" alt="Sandra" width="57" height="100" border="0" /></a></td>
 
  </tr><tr valign="top">
   
  <td style="width:60px" align="center"><a href="sylvia.asp">
    <img src="images/Profile Pics/Sylvia-Profile.jpg" alt="Sylvia" width="57" height="100" border="0" /></a></td>
-  <td style="width:60px" align="center"><a href="kim.asp">
-   <img src="images/Profile Pics/kim.jpg" alt="Kim" width="57" height="100" border="0" /></a></td>
+ </tr>
  </tr>
 </table>
 
