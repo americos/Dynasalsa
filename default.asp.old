@@ -1,0 +1,63 @@
+<!-- #include file="dynamix_header.asp" -->
+
+
+ <table width="1050" height="348" border="0" cellpadding="0" cellspacing="0" style="margin:0px 0px 0px 30px;">
+  <tr> 
+   <td>&nbsp;</td> 
+  </tr>
+ </table>
+
+
+ <table border="0" cellpadding="2" align="left" style="margin:0px 0px 0px 30px; width:439px;">
+ <tr><td width="590" colspan="100%"><img src="images/UpcomingEvents.jpg" width="439" height="18" alt="events" /></tr><tr>
+   <td width="111" class="lesson"><span class="red">LESSON</span></td>
+   <td width="73" class="date">2/12/10</td>
+   <td width="248"><span class="bolder">RENDEZVOUS</span><br />
+   <span class="smaller">11910 Parklawn Drive, Rockville, MD 20852</span></td>
+ </tr><tr>
+   <td class="lesson"><span class="red">LESSON</span></td>
+   <td class="date">2/13/10</td>
+   <td><span class="bolder">RENDEZVOUS</span><br />
+   <span class="smaller">11910 Parklawn Drive, Rockville, MD 20852</span></td>
+ </tr><tr>
+   <td class="lesson"><span class="red">PERFORMANCE</span></td>
+   <td class="date">2/17/10</td>
+   <td><span class="bolder">HABANA VILLAGE</span><br />
+   <span class="smaller">1834 Columbia Road NW, Washington DC 20009</span></td>
+ </tr><tr>
+   <td class="lesson"><span class="red">LESSON</span></td>
+   <td class="date">2/21/10</td>
+   <td><span class="bolder">RENDEZVOUS</span><br />
+   <span class="smaller">11910 Parklawn Drive, Rockville, MD 20852</span></td>
+</tr><tr>
+   <td class="lesson"><span class="red">LESSON</span></td>
+   <td class="date">2/25/10</td>
+   <td><span class="bolder">RENDEZVOUS</span><br />
+   <span class="smaller">11910 Parklawn Drive, Rockville, MD 20852</span></td>
+ </tr>
+</table>
+      
+ <table width="368" height="141" border="0" cellpadding="2" align="left" style="margin:0px 0px 0px 85px; ">
+ <tr><td width="412" colspan="100%"><img src="images/SalsaDMV.jpg" width="368" height="18" alt="DMV" /></td></tr>
+ <tr>
+   <td width="108" class="lesson2">MON</td>
+   <td width="246"><span class="bolder1">CLARENDON GRILL</span><br />
+   <span class="smaller">1101 North Highland St., Arlington VA 2220</span></td>
+ </tr><tr>
+   <td class="lesson2">TUES</td>
+   <td><span class="bolder1">BARKING DOG</span><br />
+   <span class="smaller">4723 Elm St., Bethesda, MD 20814</span></td>
+ </tr><tr>
+   <td class="lesson2">WED</td>
+   <td><span class="bolder1">TRIPLE X SALSA @ UMERTO’S</span><br />
+   <span class="smaller">11230 Grandview Ave. Wheaton MD 20902</span></td>
+ </tr><tr>
+   <td class="lesson2">THURS/FRI/SAT</td>
+   <td><span class="bolder1">HABANA VILLAGE</span><br />
+   <span class="smaller">1834 Columbia Road NW, Washington DC 20009</span></td>
+ </tr><tr>
+   <td class="lesson2">FRI/SAT/SUN</td>
+   <td><span class="bolder1">THE SALSA ROOM</span><br />
+   <span class="smaller">2619 Columbia Pike, Arlington, VA 22204</span></td>
+ </tr>
+</table>
