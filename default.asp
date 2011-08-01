@@ -7,9 +7,8 @@
 		<div id="slider"><ul><li><img src="http://www.dynamixsalsa.com/images/slider/1.jpg" border="0"/></li><li><img src="http://www.dynamixsalsa.com/images/slider/3.jpg" border="0"/></li><li><img src="http://www.dynamixsalsa.com/images/slider/2.jpg" border="0"/></li><li><img src="http://www.dynamixsalsa.com/images/slider/5.jpg" border="0"/></li><li><img src="http://www.dynamixsalsa.com/images/slider/4.jpg" border="0"/></li></ul></div>
    </td> 
    <td align="left" width="368">
-   		<A href="ldc2010.asp"><img src="images/2010latinDance.jpg" border="0"/></a><br><br>
-		<A href="http://www.philadelphiasalsafest.com"><img src="http://www.dynamixsalsa.com/images/phillysalsa.jpg" border="0"/></a><br><br>
-		<A href="christmasParty2010.asp"><img src="images/christmasParty2010.jpg" border="0"/></a>
+   		<A href="http://miamisalsacongress.com/performers/"><img src="images/MiamiSalsaCongress.png" border="0"/></a><br><br>
+		
    </td>
   </tr> 
  </table> 
@@ -19,22 +18,11 @@
  <img src="images/UpcomingEvents.jpg" width="439" height="18" alt="events" /></tr>
  <tr>
    <td class="lesson"><span class="red">PERFORMANCE</span></td>
-   <td class="date">10/28/10 - 10/31/10</td>
-   <td><span class="bolder">PHILADELPHIA SALSA CONGRESS</span><br />
-   <span class="smaller">Ramada Philadelphia Airport</span></td>
+   <td class="date">08/05/11 - 08/07/11</td>
+   <td><span class="bolder">Miami SALSA CONGRESS</span><br />
+   <span class="smaller">Fontainebleau Resort Miami, 4441 Collins Ave. Miami Beach, FL 33140</span></td>
  </tr>
- <tr>
-   <td width="111" class="lesson"><span class="red">PERFORMANCE</span></td>
-   <td width="73" class="date">11/01/10</td>
-   <td width="248"><span class="bolder">STRATHMORE</span><br />
-   <span class="smaller">5301 Tuckerman Lane, North Bethesda, 20852</span></td>
- </tr>
- <tr>
-   <td class="lesson"><span class="red">PERFORMANCE</span></td>
-   <td class="date">12/12/10</td>
-   <td><span class="bolder">DC DANCE COLLECTIVE</span><br />
-   <span class="smaller">4908 Wisconsin Ave. NW, Washington, DC 20016</span></td>
- </tr>
+ 
  
  
 </table>

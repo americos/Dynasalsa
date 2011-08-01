@@ -26,6 +26,8 @@
   
  <td style="width:60px" align="center"><a href="sylvia.asp">
    <img src="images/Profile Pics/Sylvia-Profile.jpg" alt="Sylvia" width="57" height="100" border="0" /></a></td>
+<td style="width:60px" align="center"><a href="Americo.asp">
+   <img src="images/Profile Pics/AmericoProfile.jpg" alt="Americo" width="57" height="100" border="0" /></a></td>
  </tr>
  </tr>
 </table>
