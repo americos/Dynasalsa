@@ -7,7 +7,7 @@
 		<div id="slider"><ul><li><img src="http://www.dynamixsalsa.com/images/slider/1.jpg" border="0"/></li><li><img src="http://www.dynamixsalsa.com/images/slider/3.jpg" border="0"/></li><li><img src="http://www.dynamixsalsa.com/images/slider/2.jpg" border="0"/></li><li><img src="http://www.dynamixsalsa.com/images/slider/5.jpg" border="0"/></li><li><img src="http://www.dynamixsalsa.com/images/slider/4.jpg" border="0"/></li></ul></div>
    </td> 
    <td align="left" width="368">
-   		<A href="http://miamisalsacongress.com/performers/"><img src="images/MiamiSalsaCongress.png" border="0"/></a><br><br>
+   		<img src="images/Promotion_BaltimoreSalsa_banner2012.jpg" style="width:400px;height:300px" border="0"/></a><br><br>
 		
    </td>
   </tr> 
